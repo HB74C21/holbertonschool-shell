@@ -1,16 +1,14 @@
 Description of Scripts
-
+  
 This repository contains several scripts that perform various tasks related to directory manipulation and file management. Each script is numbered and described below:
 
-Script 0: current_working_directory. 
-Description: This script prints the absolute path name of the current working directory.
+Script 0: 0-current_working_directory.  
+Description: This script prints the absolute path name of the current working directory.  
 
-Script 1: listit
+Script 1: 1-listit  
+Description: This script displays the list of contents in the current directory.  
 
-Description: This script displays the list of contents in the current directory.
-
-Script 2: bring_me_home
-
+Script 2: 2-bring_me_home  
 Description: This script changes the working directory to the user's home directory.
 
 Script 3: listfiles
