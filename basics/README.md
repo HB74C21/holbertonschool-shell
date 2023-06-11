@@ -2,8 +2,7 @@ Description of Scripts
 
 This repository contains several scripts that perform various tasks related to directory manipulation and file management. Each script is numbered and described below:
 
-Script 0: current_working_directory
-
+Script 0: current_working_directory 
 Description: This script prints the absolute path name of the current working directory.
 
 Script 1: listit
